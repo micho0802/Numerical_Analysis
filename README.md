@@ -1,2 +1,2 @@
 ## Numerical Partial Differential Equations
-This repo is for numerical method in PDE
+This repository is for numerical method in PDE
